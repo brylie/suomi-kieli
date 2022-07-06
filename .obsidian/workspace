@@ -1,0 +1,144 @@
+{
+  "main": {
+    "id": "f11972525810011d",
+    "type": "split",
+    "children": [
+      {
+        "id": "ee6f772795cf5c67",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "weather.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ede2cb5d04afe4b9",
+    "type": "split",
+    "children": [
+      {
+        "id": "44b5ddf2ab81fd7a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0f73a86c6763ec25",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "49a7cada8d2ebffd",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "6ab991f0029f9d10",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 289
+  },
+  "right": {
+    "id": "844075d5de897a47",
+    "type": "split",
+    "children": [
+      {
+        "id": "c0d3f5e524e32215",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7ee6ae0bd3c5ab7d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "weather.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "c23cd1340ec49e05",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "weather.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "97fb22eabfa40457",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "c0b86ed331a97379",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "weather.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 231,
+    "collapsed": true
+  },
+  "active": "ee6f772795cf5c67",
+  "lastOpenFiles": [
+    "weather.md",
+    "Familia/Familia - 2022-07-06.md",
+    "Familia/Familia - 2022-06-27.md",
+    "Familia/Familia - 2022-06-29.md",
+    "Familia/Familia - 2022-06-30.md",
+    "Months.md",
+    "Ordinal numbers.md",
+    "Partitiivi.md",
+    "Resources.md",
+    "Ruokasannat.md"
+  ]
+}

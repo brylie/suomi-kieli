@@ -1,0 +1,6 @@
+Mitä sun nimi on? (spoken)
+
+What is your name?
+
+- Minä nimi on ...
+- Nimeni on ...

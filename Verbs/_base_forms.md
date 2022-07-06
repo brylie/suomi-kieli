@@ -1,0 +1,6 @@
+- minä (me, I)
+- sinä (you -- singular)
+- hän (he/she)
+- me (we)
+- te (you all -- plural)
+- he (they)
