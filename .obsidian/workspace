@@ -9,7 +9,19 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "weather.md",
+            "file": "Familia/Familia - 2022-07-26.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "b34dc63c4c296e2a",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Plural.md",
             "mode": "source",
             "source": false
           }
@@ -61,7 +73,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 289
+    "width": 243
   },
   "right": {
     "id": "844075d5de897a47",
@@ -77,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "weather.md",
+                "file": "Plural.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "weather.md",
+                "file": "Plural.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -117,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "weather.md"
+                "file": "Plural.md"
               }
             }
           }
@@ -125,20 +137,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 231,
-    "collapsed": true
+    "width": 231
   },
-  "active": "ee6f772795cf5c67",
+  "active": "b34dc63c4c296e2a",
   "lastOpenFiles": [
-    "weather.md",
+    "Plural.md",
+    "Familia/Familia - 2022-07-26.md",
     "Familia/Familia - 2022-07-06.md",
+    "weather.md",
     "Familia/Familia - 2022-06-27.md",
     "Familia/Familia - 2022-06-29.md",
     "Familia/Familia - 2022-06-30.md",
     "Months.md",
     "Ordinal numbers.md",
-    "Partitiivi.md",
-    "Resources.md",
-    "Ruokasannat.md"
+    "Partitiivi.md"
   ]
 }
