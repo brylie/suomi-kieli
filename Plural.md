@@ -31,7 +31,7 @@ T- monikko (partitiivi)
 	- pesukone -> pesukone**et** (pesukonetta)
 	- huone -> huone**et** 
 	- kirje -> kirjeet 
-	- reverse consonant gradation (no rules applied)
+	- reverse [[consonant gradation]] (no rules applied)
 		- koe -> ko**k**e**et** (koetta)
 		- pyyhe - pyyh**k**e**et** (pyyhettä)
 		- vaa**t**e - vaa**tt**e**et** (vaatetta)

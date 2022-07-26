@@ -4,7 +4,7 @@ Mikä - where
 Mi**stä** - where from
 
 "-sta/-stä" - from
-- *-lta/ltä - for plural
+- *-lta/ltä - for [[plural]]
 
 Answering
 - Minä olen kotoisen <USAsta>.
