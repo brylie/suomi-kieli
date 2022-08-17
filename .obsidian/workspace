@@ -4,24 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "7828748f188c2f09",
+        "id": "49235ab8de118152",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Household items.md",
-            "mode": "source",
-            "source": false
-          }
-        }
-      },
-      {
-        "id": "03f2bca8a82c14cf",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Rooms.md",
+            "file": "FinnishTeacher/FinnishTeacher-2022-08-17.md",
             "mode": "source",
             "source": false
           }
@@ -52,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "kenen",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -73,8 +61,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 243,
-    "collapsed": true
+    "width": 256.5
   },
   "right": {
     "id": "844075d5de897a47",
@@ -90,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Household items.md",
+                "file": "FinnishTeacher/FinnishTeacher-2022-08-17.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Household items.md",
+                "file": "FinnishTeacher/FinnishTeacher-2022-08-17.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -130,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Household items.md"
+                "file": "FinnishTeacher/FinnishTeacher-2022-08-17.md"
               }
             }
           }
@@ -138,19 +125,20 @@
       }
     ],
     "direction": "horizontal",
-    "width": 231
+    "width": 231,
+    "collapsed": true
   },
-  "active": "7828748f188c2f09",
+  "active": "49235ab8de118152",
   "lastOpenFiles": [
-    "Rooms.md",
-    "Household items.md",
-    "Familia/Familia - 2022-08-01.md",
-    "Ordinal numbers.md",
-    "Partitiivi.md",
-    "Ordinals.md",
-    "lla or ssa.md",
-    "Kesälla liikutaan ulkona.md",
-    "I have or I do not have.md",
-    "I am or I am not.md"
+    "Genetiivi.md",
+    "Ruokasannat.md",
+    "Questions/Basic questions.md",
+    "FinnishTeacher/FinnishTeacher-2022-08-17.md",
+    "Responses.md",
+    "Where from to at?.md",
+    "Months.md",
+    "Familia/Familia - 2022-08-04.md",
+    "Familia/Familia - 2022-08-03.md",
+    "Familia/Familia - 2022-06-06.md"
   ]
 }

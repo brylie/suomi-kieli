@@ -6,7 +6,8 @@
 - **kuinka** - how
 	- kuinka vanha - how old
 	- kuinka paljon - how much
-- **minkä** maalainen - what country from
+- **minkä** - of what?
+	- maalainen - what country from
 - **kenen** - whose 
 	- kenen kanssa - with who
 - **millainen** - what kind of
